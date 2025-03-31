@@ -17,7 +17,6 @@ class AlunoModel {
     AlunoModel.maxId += 1
     return AlunoModel.maxId
     
-    
     }
     }
     
